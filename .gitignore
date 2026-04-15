@@ -1,0 +1,9 @@
+# VS Code 서버 관련
+.vscode-server/
+
+# VS Code C++ 툴 관련 캐시
+.cache/
+
+# Bash history
+.bash_history
+vscode-server/
